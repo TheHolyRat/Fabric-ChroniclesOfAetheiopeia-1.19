@@ -9,7 +9,7 @@ The Chronicles of Aetheiopeia is a fabric mod for 1.19.4 that aims to implement 
 ### To be implemented
 *Please note that this is a hobby project and I am very lazy when making hobby projects. These are estimated values.
 #### v0.0.1:
-26 new minerals- tools, blocks, ores, armour:
+26 new materials- tools, blocks, armour:
 •	Silver 
 •	Ralite
 •	Swaltein
